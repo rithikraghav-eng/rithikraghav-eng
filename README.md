@@ -24,7 +24,7 @@ An educational ARM Thumb CPU emulator in Python (a subset, not a full Cortex-M4 
  
 | Area | What I use |
 |---|---|
-| Languages | C (embedded), Python |
+| Languages | C , Python |
 | Microcontrollers | STM32, ESP32, Arduino |
 | Sensors and I/O | Accelerometer integration, serial (UART) data pipelines |
 | Signal processing | FFT, windowing, sampling-rate analysis |
